@@ -1,5 +1,7 @@
 # Pong
 
-A pong game as made on the YouTube show [Meth Meth Method](http://bit.ly/meth-meth-method).
+A slightly modified version of Pong game from MethMethMethod
 
-Incrementally commited to show the game evolve step by step.
+## Pong
+
+A pong game as made on the YouTube show [Meth Meth Method](http://bit.ly/meth-meth-method).
