@@ -1,0 +1,14 @@
+{
+  "name": "pong-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adam James",
+  "license": "MIT",
+  "scripts":{
+  	"build":"webpack"
+  },
+  "dependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
